@@ -1,0 +1,24 @@
+name: ADR Discusion - registry-operator
+description: Discusion about new (or existing) Architectural Decision Record.
+title: "[registry-operator]: <title>"
+labels:
+  - kind/discussion
+  - area/registry-operator
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: Context and Problem Statement
+      placeholder: Describe the context and problem statement prompting the need for this mADR.
+    validations:
+      required: true
+  - type: textarea
+    id: options
+    attributes:
+      label: Considered Options
+      description: List of considered options.
+      placeholder: |
+        * [Foo](example.com/#foo);
+        * [Bar](example.com/#bar).
+    validations:
+      required: false
