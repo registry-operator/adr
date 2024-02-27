@@ -7,3 +7,6 @@
 - [ ] The chosen option is clearly stated along with the rationale.
 - [ ] The mADR template is filled out accurately.
 - [ ] Any additional information or references are included.
+
+<!-- Link to the discussion -->
+Closes #
