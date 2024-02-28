@@ -20,6 +20,8 @@ To maintain consistency and clarity across ADRs, we use the following template:
 ```md
 # mADR Title
 
+[![](https://img.shields.io/badge/Discussion-NUMBER-green)](https://github.com/registry-operator/adr/issues/NUMBER)
+
 ## Context and Problem Statement
 
 [Describe the context and problem statement prompting the need for this mADR.]
@@ -31,7 +33,7 @@ To maintain consistency and clarity across ADRs, we use the following template:
 
 ## Decision Outcome
 
-Chosen option: <Option>, because <reasoining>.
+Selected option: <Option>, because <reasoining>.
 ```
 
 Feel free to customize this template to suit the specific needs and conventions of your project.
