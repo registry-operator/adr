@@ -19,5 +19,5 @@ jobs:
           fetch-depth: 0
       - uses: wagoid/commitlint-github-action@v5
         with:
-          configFile: .commitlintrc.js
+          configFile: .commitlintrc.mjs
           token: ${{ secrets.GITHUB_TOKEN }}
