@@ -2,6 +2,15 @@
 
 This repository contains a collection of Architectural Decision Records (ADRs) documenting significant architectural decisions made throughout the development process.
 
+[![GitHub License](https://img.shields.io/github/license/registry-operator/adr)][license]
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+[![GitHub issues](https://img.shields.io/github/issues/registry-operator/adr)](https://github.com/registry-operator/adr/issues)
+[![GitHub release](https://img.shields.io/github/release/registry-operator/adr)](https://GitHub.com/registry-operator/adr/releases/)
+
+Join the community to discuss ongoing operator development and usage in [#registry-operator](https://cloud-native.slack.com/archives/C06P7RC8857) channel on the CNCF Slack.
+
+[![Slack Channel](https://img.shields.io/badge/Slack-CNCF-4A154B?logo=slack)](https://cloud-native.slack.com/archives/C06P7RC8857)
+
 ## Table of Contents
 - [Architectural Decision Records (ADRs)](#architectural-decision-records-adrs)
   - [Table of Contents](#table-of-contents)
@@ -53,3 +62,7 @@ The process of creating new ADRs involves the following steps:
 5. **Review and Merge**: Collaborate with other team members to review the ADR. Address any feedback or suggestions for improvement. Once the ADR is finalized and approved, merge the pull request into the main repository.
 
 By following this process, you can effectively capture and document architectural decisions in a structured and transparent manner.
+
+<!-- Resources -->
+
+[license]: https://github.com/registry-operator/adr/blob/main/LICENSE
