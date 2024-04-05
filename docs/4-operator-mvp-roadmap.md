@@ -17,6 +17,6 @@ Minimum Viable Product (MVP) refers to the initial version of a product that inc
 
 ## Decision Outcome
 
-Selected option: "Medium MVP" with default configuration, because empty operator scaffolding doesn't provide any project value from `Registry` perspective, but integration with protocols like `s3` and `filesystem` will be demanding and need a stable working fundations. 
+Selected option: *Medium MVP* with default configuration, because empty operator scaffolding doesn't provide any project value from `Registry` perspective, but integration with protocols like `s3` and `filesystem` will be demanding and need a stable working fundations. 
 
 As a descussion result the detailed `ROADMAP.md` is created in `registry-operator` repo.  

@@ -4,7 +4,9 @@
 
 ## Context and Problem Statement
 
-[Describe the context and problem statement prompting the need for this mADR.]
+Effective documentation is paramount for the successful adoption and utilisation of the `registry-operator`, a robust tool tailored for managing CNCF Distribution Registry instances. As developers and DevOps teams engage with the `registry-operator`, they require comprehensive, easily accessible documentation to streamline deployment, scaling, and management tasks.
+
+The choice of documentation framework or static site generator is crucial to ensure that the documentation meets the needs of our users. Templating flexibility, support for custom scripts, and availability of extra plugins for enhancing functionality are key factors to consider in this decision-making process.
 
 ## Considered Options
 
