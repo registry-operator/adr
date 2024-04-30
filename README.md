@@ -42,7 +42,17 @@ To maintain consistency and clarity across ADRs, we use the following template:
 
 ## Decision Outcome
 
-Selected option: <Option>, because <reasoining>.
+Selected option: _<option>_, because _<reasoining>_.
+
+## Previous Selections
+
+~~Selected option: _<option>_, because _<reasoining>_.~~
+
+## Changelog
+
+| Date       | Description |
+|------------|-------------|
+| YYYY-MM-DD | <change>    |
 ```
 
 Feel free to customize this template to suit the specific needs and conventions of your project.
